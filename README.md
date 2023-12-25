@@ -68,4 +68,15 @@ open up localhost:
 - Flask
 - Meta Llama2
 - Pinecone
+  
+###  Frontend
+![Screenshot (1621)](https://github.com/ApurvBhusari/End_to_End_Medical_chatbot_generative_ai/assets/80256026/9296ecf2-d232-48af-906e-5a9f26296ae4)
+
+###  VS Code
+![Screenshot (1622)](https://github.com/ApurvBhusari/End_to_End_Medical_chatbot_generative_ai/assets/80256026/4dffba05-fbf0-4e3c-a665-36bc91e93791)
+
+### Response
+![Screenshot (1623)](https://github.com/ApurvBhusari/End_to_End_Medical_chatbot_generative_ai/assets/80256026/8bdef5ff-07a8-4f63-ae79-ac3c9c7c284e)
+
+
 
